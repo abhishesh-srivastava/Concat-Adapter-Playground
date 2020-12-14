@@ -3,4 +3,8 @@
     <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#3700B3</color>
     <color name="colorAccent">#03DAC5</color>
+    <color name="color_bike">#457A9D</color>
+    <color name="color_car">#BE5747</color>
+    <color name="color_grey">#767676</color>
+    <color name="color_heli">#579D77</color>
 </resources>
